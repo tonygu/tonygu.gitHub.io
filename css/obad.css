@@ -1,4 +1,7 @@
 
+body {
+    font: sans-serif;
+}
 h1 {
     font: 20px, helvetica san-serif;
     position: relative;
@@ -31,4 +34,12 @@ h1 {
     background-color: rgba(0,0,0,0.2);
     padding: 20px
 
+}
+
+.tcenter {
+    position: relative;
+    top:150px;
+    background-color: rgba(0,0,0,0.1);
+    padding: 20px;
+    font: bold 18px helvetica sans-serif;
 }
