@@ -1,13 +1,33 @@
-img {
-    height: auto;
-    max-width: 400px;
-   position: relative;
+
+h1 {
+    font: 20px, helvetica san-serif;
+    position: relative;
     left: 80px;
+}
+
+.top-bar {
+    background: #222;
+    position: relative;
+    zoom: 0;
+    z-index: 6000;
+    padding: 20px 0 20px;
+}
+
+.image {
+    position: relative;
+    width: 400px;
+    left: 80px;
+
 
 
 }
+.tex {
+    position: absolute;
+    width: 500px;
+    top: 100px;
+    left: 400px;
+    font: bold 20px helvetica sans-serif;
+    background-color: rgba(0,0,0,0.2);
+    padding: 20px
 
-h1 {
-    position: relative;
-    left: 80px;
 }
