@@ -9,8 +9,8 @@ h1 {
     background: #222;
     width: 100%;
     position: relative;
-    zoom: 0;
-    z-index: 6000;
+    zoom: 2;
+    z-index: 9000;
     padding: 20px 0 20px;
 }
 
